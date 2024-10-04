@@ -1,4 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Frederik Larsen'
 theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params.profileMode]
+enabled = true
+title = "Frederik Larsen"
+subtitle = "My personal website."

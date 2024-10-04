@@ -20,5 +20,11 @@ subtitle = "My personal website."
 [[menu.main]]
 identifier = "LocalGovStatBank"
 name = "LocalGovStatBank"
-url = "/LocalGovStatBank/"
+url = "https://frederiklarsen.com/LocalGovStatBank"
 weight = 10
+
+[[menu.main]]
+identifier = "NoegletalR"
+name = "NoegletalR"
+url = "https://cran.r-project.org/web/packages/noegletalR/index.html"
+weight = 20

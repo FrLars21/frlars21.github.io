@@ -16,3 +16,9 @@ minifyOutput = true
 enabled = true
 title = "Frederik Larsen"
 subtitle = "My personal website."
+
+[[menu.main]]
+identifier = "LocalGovStatBank"
+name = "LocalGovStatBank"
+url = "/LocalGovStatBank/"
+weight = 10
